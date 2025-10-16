@@ -266,7 +266,7 @@ See the [LICENSE](LICENSE) file for details.
 ## Support
 
 - **Issues**: [GitHub Issues](https://github.com/Axius-SDC/sdcvalidator/issues)
-- **Contact**: tim@axius-sdc.com
+- **Contact**: contact@axius-sdc.com
 
 ## Acknowledgments
 

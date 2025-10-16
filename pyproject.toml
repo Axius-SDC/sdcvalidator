@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sdcvalidator"
-version = "1.0.0"
+version = "4.0.0"
 description = "SDC4 XML validation with ExceptionalValue recovery"
 readme = "README.rst"
 license = "MIT"
@@ -14,7 +14,7 @@ authors = [
     { name = "Axius-SDC, Inc." },
 ]
 maintainers = [
-    { name = "Tim Cook", email = "tim@axius-sdc.com" },
+    { name = "Tim Cook", email = "contact@axius-sdc.com" },
 ]
 classifiers = [
     "Development Status :: 5 - Production/Stable",

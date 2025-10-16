@@ -68,7 +68,7 @@ from .sdc4 import (
 # Alias for convenience
 Schema = XMLSchema11
 
-__version__ = '4.0.0'
+__version__ = '4.0.1'
 __author__ = "Axius-SDC, Inc. (based on xmlschema by Davide Brunato)"
 __contact__ = "contact@axius-sdc.com"
 __copyright__ = "Copyright 2025, Axius-SDC, Inc. | Copyright 2016-2024, SISSA"
